@@ -38,9 +38,6 @@ dofile(minetest.get_modpath("my_preference").."/plantlife_changes.lua")
 ---Dye Recipes (instead of Unified Dyes)
 dofile(minetest.get_modpath("my_preference").."/my_dyes.lua")
 
---Chains: --make place like rope and change textures
-dofile(minetest.get_modpath("my_preference").."/chains_changes.lua")
-
 --Teleporters:[comment out lines 172-186]
 dofile(minetest.get_modpath("my_preference").."/teleporters_changes.lua")
 
